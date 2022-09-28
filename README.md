@@ -1,7 +1,7 @@
 # Orange Regression Project - Machine Learning
 
 Objectives:
-Build a machine learning model with Orange to understand which variables are correlated to the Debt-GDP ratio.
+Build a machine learning model with Orange to estimate which variables are correlated to the Debt-GDP ratio.
 
 Disclaimers:
 This project, was built to get familiar with the tool and explore the uses of machine learning possibilities. 
